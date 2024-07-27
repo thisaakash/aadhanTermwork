@@ -11,9 +11,11 @@ import com.google.android.gms.maps.SupportMapFragment;
 import com.google.android.gms.maps.model.LatLng;
 import com.google.android.gms.maps.model.Marker;
 import com.google.android.gms.maps.model.MarkerOptions;
+import com.google.android.gms.maps.model.BitmapDescriptorFactory;
 import com.example.aadhan.databinding.ActivityMapsBinding;
 import java.util.ArrayList;
 import java.util.List;
+import android.graphics.Bitmap;
 
 public class MapsActivity extends FragmentActivity implements OnMapReadyCallback, GoogleMap.OnInfoWindowClickListener {
 
@@ -48,9 +50,13 @@ public class MapsActivity extends FragmentActivity implements OnMapReadyCallback
         gujaratLocations.add(new Location(new LatLng(21.1453509, 72.7541851), "La Net"));
         gujaratLocations.add(new Location(new LatLng(23.0407732, 72.5039941), "Inventyv"));
 
+        Bitmap customIcon = BitmapHelper.getBitmapFromVectorDrawable(this, R.drawable.building);
         // Add markers for each company in Gujarat
         for (Location location : gujaratLocations) {
-            mMap.addMarker(new MarkerOptions().position(location.latLng).title(location.title));
+            mMap.addMarker(new MarkerOptions()
+                    .position(location.latLng)
+                    .title(location.title)
+                    .icon(BitmapDescriptorFactory.fromBitmap(customIcon)));
         }
 
         // Move the camera to Ahmedabad with a zoom level to focus on the city

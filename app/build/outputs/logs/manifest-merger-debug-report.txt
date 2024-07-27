@@ -116,9 +116,9 @@ ADDED from F:\!MCA\SEM-3\termwork\mad\app\src\main\AndroidManifest.xml:15:9-17:4
 	android:name
 		ADDED from F:\!MCA\SEM-3\termwork\mad\app\src\main\AndroidManifest.xml:16:13-41
 meta-data#com.google.android.geo.API_KEY
-ADDED from F:\!MCA\SEM-3\termwork\mad\app\src\main\AndroidManifest.xml:29:9-31:71
+ADDED from F:\!MCA\SEM-3\termwork\mad\app\src\main\AndroidManifest.xml:29:9-31:40
 	android:value
-		ADDED from F:\!MCA\SEM-3\termwork\mad\app\src\main\AndroidManifest.xml:31:13-68
+		ADDED from F:\!MCA\SEM-3\termwork\mad\app\src\main\AndroidManifest.xml:31:13-37
 	android:name
 		ADDED from F:\!MCA\SEM-3\termwork\mad\app\src\main\AndroidManifest.xml:30:13-58
 activity#com.example.aadhan.MapsActivity
