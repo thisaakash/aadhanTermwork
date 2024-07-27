@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "com.example.aadhan.app-mergeDebugResources-32:/values-tl/values-tl.xml",
+            "outputFile": "com.example.aadhan.app-mergeDebugResources-33:/values-tl/values-tl.xml",
             "map": [
                 {
                     "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-4\\61e1619d19c66140be0d95edba201005\\transformed\\play-services-base-18.5.0\\res\\values-tl\\values.xml",

@@ -1,12 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <color name="black">#FF000000</color>
+    <color name="ic_launcher_background">#F6F6F6</color>
     <color name="white">#FFFFFFFF</color>
     <string name="app_name">Aadhan</string>
     <string name="title_activity_maps">MapsActivity</string>
-    <style name="Base.Theme.Aadhan" parent="Theme.Material3.DayNight.NoActionBar">
+    <style name="Base.Theme.Aadhan" parent="Theme.AppCompat.Light.DarkActionBar">
         
         
     </style>
     <style name="Theme.Aadhan" parent="Base.Theme.Aadhan"/>
+    <style name="Theme.Aadhan.NoActionBar" parent="Base.Theme.Aadhan">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+    <style name="Theme.App.SplashScreen" parent="Theme.SplashScreen">
+        <item name="windowSplashScreenBackground">@color/white</item>
+        <item name="windowSplashScreenAnimatedIcon">@drawable/temp_icon</item>
+        <item name="postSplashScreenTheme">@style/Theme.AppCompat.Light</item>
+    </style>
 </resources>

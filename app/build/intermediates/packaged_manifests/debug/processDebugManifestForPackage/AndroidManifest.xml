@@ -42,27 +42,21 @@
         android:testOnly="true"
         android:theme="@style/Theme.Aadhan" >
         <activity
+            android:name="com.example.aadhan.Home"
+            android:exported="false" />
+        <activity
             android:name="com.example.aadhan.InfoActivity"
             android:exported="false" />
-        <!--
-             TODO: Before you run your application, you need a Google Maps API key.
 
-             To get one, follow the directions here:
-
-                https://developers.google.com/maps/documentation/android-sdk/get-api-key
-
-             Once you have your API key (it starts with "AIza"), define a new property in your
-             project's local.properties file (e.g. MAPS_API_KEY=Aiza...), and replace the
-             "YOUR_API_KEY" string in this file with "${MAPS_API_KEY}".
-        -->
         <meta-data
             android:name="com.google.android.geo.API_KEY"
-            android:value="key_here" />
+            android:value="AIzaSyDz8sqe1rvsbROEkppjgKpj6tfD8MWoXOk" />
 
         <activity
-            android:name="com.example.aadhan.MapsActivity"
+            android:name="com.example.aadhan.MainActivity"
             android:exported="true"
-            android:label="@string/title_activity_maps" >
+            android:label="@string/title_activity_maps"
+            android:theme="@style/Theme.Aadhan.NoActionBar" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
@@ -70,7 +64,7 @@
             </intent-filter>
         </activity>
         <activity
-            android:name="com.example.aadhan.MainActivity"
+            android:name="com.example.aadhan.MapsActivity"
             android:exported="false" />
         <!-- Needs to be explicitly declared on P+ -->
         <uses-library

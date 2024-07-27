@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "com.example.aadhan.app-mergeDebugResources-32:/values-watch-v20/values-watch-v20.xml",
+            "outputFile": "com.example.aadhan.app-mergeDebugResources-33:/values-watch-v20/values-watch-v20.xml",
             "map": [
                 {
                     "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-4\\5b5c0704c084baff92b7ce5207b2fea6\\transformed\\appcompat-1.7.0\\res\\values-watch-v20\\values-watch-v20.xml",
