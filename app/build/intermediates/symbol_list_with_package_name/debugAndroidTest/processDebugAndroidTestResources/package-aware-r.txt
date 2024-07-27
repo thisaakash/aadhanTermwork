@@ -1,0 +1,3 @@
+com.example.aadhan.test
+style WhiteBackgroundDialogTheme
+style WhiteBackgroundTheme

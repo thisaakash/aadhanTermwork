@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.7\\com.example.aadhan.app-mergeDebugResources-33:\\layout\\activity_maps.xml",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.7\\com.example.aadhan.app-main-36:\\layout\\activity_maps.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.7\\com.example.aadhan.app-mergeDebugResources-33:\\layout\\activity_info.xml",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.7\\com.example.aadhan.app-main-36:\\layout\\activity_info.xml"
+    },
+    {
+        "merged": "com.example.aadhan.app-mergeDebugResources-33:/layout/activity_main.xml",
+        "source": "com.example.aadhan.app-main-36:/layout/activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.7\\com.example.aadhan.app-mergeDebugResources-33:\\layout\\custom_info_window.xml",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.7\\com.example.aadhan.app-main-36:\\layout\\custom_info_window.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.7\\com.example.aadhan.app-mergeDebugResources-33:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.7\\com.example.aadhan.app-main-36:\\layout\\activity_main.xml"
+    }
+]

@@ -1,0 +1,5 @@
+com.example.aadhan.test.app-core-1.6.1-0 C:\Users\HP\.gradle\caches\transforms-4\02ee5504d07005351f3ee4f2b7cfde72\transformed\core-1.6.1\res
+com.example.aadhan.test.app-androidTest-1 F:\!MCA\SEM-3\termwork\mad\app\build\generated\res\resValues\androidTest\debug
+com.example.aadhan.test.app-mergeDebugAndroidTestResources-2 F:\!MCA\SEM-3\termwork\mad\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.example.aadhan.test.app-mergeDebugAndroidTestResources-3 F:\!MCA\SEM-3\termwork\mad\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.example.aadhan.test.app-debugAndroidTest-4 F:\!MCA\SEM-3\termwork\mad\app\build\intermediates\merged_res\debugAndroidTest\mergeDebugAndroidTestResources
