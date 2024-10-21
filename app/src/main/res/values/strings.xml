@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Aadhan</string>
+    <string name="msg_token_fmt">FCM registration token: %s</string>
+</resources>

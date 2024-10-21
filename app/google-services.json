@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "844679756518",
+    "project_id": "aadhan-mad",
+    "storage_bucket": "aadhan-mad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:844679756518:android:1b82ab66a7a2970ccf9927",
+        "android_client_info": {
+          "package_name": "com.aakash.aadhan"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXA2T_Zvm9rwmiZl9Chw1pi2Jo6nfc7K8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
